@@ -1,6 +1,5 @@
 import type { FC } from 'react'
-import type { SEOSupportProps } from 'types/components/seo-support'
-
+import type { SEOSupportProps } from 'types/components/seo_support'
 import Head from 'next/head'
 import Script from 'next/script'
 
